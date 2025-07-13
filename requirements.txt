@@ -2,5 +2,6 @@ pandas
 scikit-learn
 matplotlib
 seaborn
-mlflow
+feast
 jupyter
+codecarbon
